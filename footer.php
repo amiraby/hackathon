@@ -6,7 +6,7 @@
             <div class="row">
                 <div class="col-lg-3 col-md-12 text-center">
                     <h3>About us</h3><br>
-                     <p><span class="text-light">Notre platform donne pour les utilisateur la possibilité de réservent 24h/24 7j/7 en ligne en toute autonomie.</span> </p>  <br>
+                    <p><span class="text-light">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Neque nobis quae blanditiis recusandae quos est? </span> </p>  <br>
                     <i class="bi bi-facebook"></i>&nbsp;&nbsp;
                     <i class="bi bi-instagram"></i>&nbsp;&nbsp;
                     <i class="bi bi-twitter"></i>&nbsp;&nbsp;
@@ -22,7 +22,7 @@
                        </span>    </p>   
                      <p>
                         <span class="text-light"> Email:<br>
-                        Contact@LigaTun.com
+                        Contact@Houkouma.com
                         </span></p> 
                 </div> 
                 <div class="col-lg-3 col-md-12 text-center">
@@ -36,7 +36,7 @@
             <br><br>
             <div class="row">
                 <div  class="col">
-                   <p class="text-secondary text-center"> © Copyright ©2023 All rights reserved , made by Yassine hammi & Mohamed Ali Saidi  </p>
+                   <p class="text-secondary text-center"> © Copyright ©2023 All rights reserved , made by Houkouma </p>
                 </div>
             </div>
         </div>
