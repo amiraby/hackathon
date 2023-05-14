@@ -59,7 +59,7 @@
                 <a class="nav-link" href="#programs">PROGRAMS</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#events">EVENTS</a>
+                <a class="nav-link" href="#LoginSignup">EVENTS</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link " href="Artisan_Portail.php">Artsian</a>
